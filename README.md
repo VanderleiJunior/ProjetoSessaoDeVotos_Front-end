@@ -1,0 +1,1 @@
+# ProjetoSessaoDeVotos_Front-end
